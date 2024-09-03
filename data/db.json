@@ -4,6 +4,11 @@
       "username": "user",
       "id": "91d86b2f-f165-4a3a-bfd8-1aeccdf86a80",
       "password": "$2a$10$3dV0t7/V4jVoX6BDmdU7auY1GuyxeP31TeqITT4LrCnieveZECuV6"
+    },
+    {
+      "username": "Worldout",
+      "id": "29e6081a-a82a-4a72-a5e4-9bd39875ca52",
+      "password": "$2a$10$6BVEcqNbk0KB2D2WMHFTB.OJ6kcdVHXR/IrO2C6.NejQs18rz8jwW"
     }
   ],
   "books": [

@@ -1,0 +1,482 @@
+[
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "continent": "Asia",
+        "population": 37435191,
+        "gdp": 2055690000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "New York",
+        "country": "United States",
+        "continent": "North America",
+        "population": 18804000,
+        "gdp": 1992770000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "Los Angeles",
+        "country": "United States",
+        "continent": "North America",
+        "population": 12815475,
+        "gdp": 1124680000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "continent": "Europe",
+        "population": 9304016,
+        "gdp": 978400000000,
+        "climate": "#Oceanic"
+    },
+    {
+        "city": "Seoul",
+        "country": "South Korea",
+        "continent": "Asia",
+        "population": 25514000,
+        "gdp": 926790000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "continent": "Europe",
+        "population": 11020000,
+        "gdp": 904520000000,
+        "climate": "#Oceanic"
+    },
+    {
+        "city": "Chicago",
+        "country": "United States",
+        "continent": "North America",
+        "population": 9120626,
+        "gdp": 764580000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Osaka",
+        "country": "Japan",
+        "continent": "Asia",
+        "population": 19222665,
+        "gdp": 699470000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "San Francisco",
+        "country": "United States",
+        "continent": "North America",
+        "population": 4732000,
+        "gdp": 668670000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "Shanghai",
+        "country": "China",
+        "continent": "Asia",
+        "population": 26317104,
+        "gdp": 663870000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "Beijing",
+        "country": "China",
+        "continent": "Asia",
+        "population": 21516000,
+        "gdp": 553000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Hong Kong",
+        "country": "China",
+        "continent": "Asia",
+        "population": 7451000,
+        "gdp": 517000000000,
+        "climate": "#Subtropical"
+    },
+    {
+        "city": "Moscow",
+        "country": "Russia",
+        "continent": "Europe",
+        "population": 12506468,
+        "gdp": 520000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Singapore",
+        "country": "Singapore",
+        "continent": "Asia",
+        "population": 5703600,
+        "gdp": 372000000000,
+        "climate": "#TropicalRainforest"
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "continent": "Australia",
+        "population": 5312163,
+        "gdp": 356000000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "continent": "North America",
+        "population": 9209944,
+        "gdp": 315000000000,
+        "climate": "#SubtropicalHighland"
+    },
+    {
+        "city": "Toronto",
+        "country": "Canada",
+        "continent": "North America",
+        "population": 2731571,
+        "gdp": 332000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "São Paulo",
+        "country": "Brazil",
+        "continent": "South America",
+        "population": 12325232,
+        "gdp": 430000000000,
+        "climate": "#Tropical"
+    },
+    {
+        "city": "Mumbai",
+        "country": "India",
+        "continent": "Asia",
+        "population": 20411000,
+        "gdp": 368000000000,
+        "climate": "#TropicalWetAndDry"
+    },
+    {
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "continent": "South America",
+        "population": 3075646,
+        "gdp": 292000000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "continent": "Europe",
+        "population": 15462452,
+        "gdp": 256000000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "continent": "Asia",
+        "population": 10539000,
+        "gdp": 320000000000,
+        "climate": "#TropicalSavanna"
+    },
+    {
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "continent": "Asia",
+        "population": 3331420,
+        "gdp": 425000000000,
+        "climate": "#Desert"
+    },
+    {
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "continent": "Asia",
+        "population": 10770487,
+        "gdp": 321000000000,
+        "climate": "#TropicalRainforest"
+    },
+    {
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "continent": "Asia",
+        "population": 1800000,
+        "gdp": 250000000000,
+        "climate": "#TropicalRainforest"
+    },
+    {
+        "city": "Madrid",
+        "country": "Spain",
+        "continent": "Europe",
+        "population": 6642000,
+        "gdp": 230000000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "Milan",
+        "country": "Italy",
+        "continent": "Europe",
+        "population": 1378689,
+        "gdp": 210000000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "Rome",
+        "country": "Italy",
+        "continent": "Europe",
+        "population": 2872800,
+        "gdp": 200000000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "Vienna",
+        "country": "Austria",
+        "continent": "Europe",
+        "population": 1911191,
+        "gdp": 180000000000,
+        "climate": "#Oceanic"
+    },
+    {
+        "city": "Zurich",
+        "country": "Switzerland",
+        "continent": "Europe",
+        "population": 428737,
+        "gdp": 170000000000,
+        "climate": "#Oceanic"
+    },
+    {
+        "city": "Athens",
+        "country": "Greece",
+        "continent": "Europe",
+        "population": 664046,
+        "gdp": 110000000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "Budapest",
+        "country": "Hungary",
+        "continent": "Europe",
+        "population": 1752286,
+        "gdp": 105000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Prague",
+        "country": "Czech Republic",
+        "continent": "Europe",
+        "population": 1309000,
+        "gdp": 100000000000,
+        "climate": "#Oceanic"
+    },
+    {
+        "city": "Vienna",
+        "country": "Austria",
+        "continent": "Europe",
+        "population": 1911191,
+        "gdp": 95000000000,
+        "climate": "#Oceanic"
+    },
+    {
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "continent": "Europe",
+        "population": 432864,
+        "gdp": 90000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Ljubljana",
+        "country": "Slovenia",
+        "continent": "Europe",
+        "population": 295504,
+        "gdp": 85000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Zagreb",
+        "country": "Croatia",
+        "continent": "Europe",
+        "population": 806341,
+        "gdp": 80000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "continent": "Europe",
+        "population": 1241675,
+        "gdp": 75000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Bucharest",
+        "country": "Romania",
+        "continent": "Europe",
+        "population": 1883425,
+        "gdp": 70000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Belgrade",
+        "country": "Serbia",
+        "continent": "Europe",
+        "population": 1378682,
+        "gdp": 65000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Kiev",
+        "country": "Ukraine",
+        "continent": "Europe",
+        "population": 2962180,
+        "gdp": 60000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Minsk",
+        "country": "Belarus",
+        "continent": "Europe",
+        "population": 2009786,
+        "gdp": 55000000000,
+        "climate": "#HumidContinental"
+    },
+    {
+        "city": "Tbilisi",
+        "country": "Georgia",
+        "continent": "Europe",
+        "population": 1118035,
+        "gdp": 50000000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "Yerevan",
+        "country": "Armenia",
+        "continent": "Europe",
+        "population": 1075800,
+        "gdp": 45000000000,
+        "climate": "#Continental"
+    },
+    {
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "continent": "Europe",
+        "population": 2237000,
+        "gdp": 40000000000,
+        "climate": "#SemiArid"
+    },
+    {
+        "city": "Astana",
+        "country": "Kazakhstan",
+        "continent": "Asia",
+        "population": 1078362,
+        "gdp": 35000000000,
+        "climate": "#Continental"
+    },
+    {
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "continent": "Asia",
+        "population": 2485900,
+        "gdp": 30000000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "continent": "Asia",
+        "population": 1021000,
+        "gdp": 25000000000,
+        "climate": "#Continental"
+    },
+    {
+        "city": "Dushanbe",
+        "country": "Tajikistan",
+        "continent": "Asia",
+        "population": 863400,
+        "gdp": 20000000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "Ashgabat",
+        "country": "Turkmenistan",
+        "continent": "Asia",
+        "population": 1031992,
+        "gdp": 15000000000,
+        "climate": "#Desert"
+    },
+    {
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "continent": "Asia",
+        "population": 8000000,
+        "gdp": 140000000000,
+        "climate": "#HumidSubtropical"
+    },
+    {
+        "city": "Ho Chi Minh City",
+        "country": "Vietnam",
+        "continent": "Asia",
+        "population": 9000000,
+        "gdp": 150000000000,
+        "climate": "#TropicalWetAndDry"
+    },
+    {
+        "city": "Manila",
+        "country": "Philippines",
+        "continent": "Asia",
+        "population": 1780148,
+        "gdp": 130000000000,
+        "climate": "#TropicalSavanna"
+    },
+    {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "continent": "Asia",
+        "population": 14910352,
+        "gdp": 120000000000,
+        "climate": "#Arid"
+    },
+    {
+        "city": "Lagos",
+        "country": "Nigeria",
+        "continent": "Africa",
+        "population": 14200000,
+        "gdp": 110000000000,
+        "climate": "#TropicalSavanna"
+    },
+    {
+        "city": "Cairo",
+        "country": "Egypt",
+        "continent": "Africa",
+        "population": 20484965,
+        "gdp": 100000000000,
+        "climate": "#Desert"
+    },
+    {
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "continent": "Africa",
+        "population": 957441,
+        "gdp": 95000000000,
+        "climate": "#SubtropicalHighland"
+    },
+    {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "continent": "Africa",
+        "population": 433688,
+        "gdp": 90000000000,
+        "climate": "#Mediterranean"
+    },
+    {
+        "city": "Nairobi",
+        "country": "Kenya",
+        "continent": "Africa",
+        "population": 4397073,
+        "gdp": 85000000000,
+        "climate": "#SubtropicalHighland"
+    },
+    {
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "continent": "Africa",
+        "population": 3041002,
+        "gdp": 80000000000,
+        "climate": "#SubtropicalHighland"
+    }    
+]

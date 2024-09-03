@@ -4,6 +4,7 @@ var path = require('path');
 var uuid = require('uuid');
 var authService = require('./services/authService');
 var passport = require('passport');
+var cities = require('./data/cities.json');
 authService.configurePassport(passport)
 
 
@@ -18,7 +19,7 @@ var db = low(path.join('data', 'db.json'));
 
 // display home page
 router.get('/', function(req, res) {
-  res.render('home')
+  res.render('home', { cities: cities })
 })
 
 //==========================
